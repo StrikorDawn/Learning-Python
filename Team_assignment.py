@@ -20,6 +20,6 @@ ID: {id_number}
 {email}
 {phone_number}
 
-Hair:  {hair.title():15}       Eye Color: {eye.capitalize()}
+Hair:  {hair.title():15} Eye Color: {eye.capitalize()}
 Month: {start.capitalize():14} Training: {pre_ex.capitalize()}
 ----------------------------------------''')
