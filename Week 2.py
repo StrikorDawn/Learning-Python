@@ -18,10 +18,10 @@ from unicodedata import name
 
 # print(full_name)
 
-# print(name.capitalize()) #will captilize the first letter in the string.
-# print(name.upper()) #makes everything upper case
-# print(name.lower()) #makes everything lower case
-# print(name.title()) #does first letter of all words
+print(name.capitalize()) #will captilize the first letter in the string.
+print(name.upper()) #makes everything upper case
+print(name.lower()) #makes everything lower case
+print(name.title()) #does first letter of all words
 
 # #Data Collection
 # print(f'Your name is: {name} {last_name}'.upper().count('O'))
