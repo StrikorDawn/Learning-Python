@@ -12,7 +12,7 @@ pre_ex = input('Pevious Experience Y/N: ')
 
 
 print(f'''The ID Card is
------------------------------------------
+---------------------------------------------
 {last_name.upper()}, {first_name.capitalize()}
 {job_title.title()}
 ID: {id_number}
@@ -20,6 +20,6 @@ ID: {id_number}
 {email}
 {phone_number}
 
-Hair:  {hair.title():15} Eye Color: {eye.capitalize()}
+Hair: {hair.title():15} Eye Color: {eye.capitalize()}
 Month: {start.capitalize():14} Training: {pre_ex.capitalize()}
-----------------------------------------''')
+---------------------------------------------''')
