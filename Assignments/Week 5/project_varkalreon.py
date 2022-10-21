@@ -10,21 +10,21 @@ option_cut = 1.5
 
 print('Welcome to Project Varkalreon')
 sleep(cut_1)
-print('This is a space text base adventure game! I hope you enjoy...')
+print('This is a halo inspired space text base adventure game! I hope you enjoy...')
 sleep(cut_1)
 name = input('Before we begin... What is your name? ')
 
-print('\nBeep...')
-sleep(cut_1)
-print('Beep...')
-sleep(cut_1)
-print('Beep...')
-sleep(cut_1)
-print('Vitals Stablizing...')
-print('Cryogenic Hissing')
-sleep(cut_1)
-print('\nPod door opens\n')
-sleep(cut_2)
+# print('\nBeep...')
+# sleep(cut_1)
+# print('Beep...')
+# sleep(cut_1)
+# print('Beep...')
+# sleep(cut_1)
+# print('Vitals Stablizing...')
+# print('Cryogenic Hissing')
+# sleep(cut_1)
+# print('\nPod door opens\n')
+# sleep(cut_2)
 
 if name.lower() == 'chief' or name.lower() == 'master chief':
     name = "Master Chief"
