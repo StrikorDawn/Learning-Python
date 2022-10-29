@@ -1,3 +1,5 @@
+import random
+
 word = 'reach'
 
 hint = '_'*len(word)
