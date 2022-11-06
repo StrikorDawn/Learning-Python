@@ -2,7 +2,7 @@ import random
 
 word = 'reach'
 
-hint = '_'*len(word)
+hint = '_ '*len(word)
 
 print(f'Here is a hint: {hint}')
 
@@ -11,7 +11,6 @@ guess_count = 1
 
 while guess != word:
     print('Guess again')
-    print(f'Here is a hint: {hint}')
     guess = input('What is the word? ').lower()
     guess_count = guess_count + 1
 
