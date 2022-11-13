@@ -22,6 +22,7 @@ while play:
                 if s_letter.lower() == g_letter.lower():
                     is_in_word = True
                     if i == j:
+
                         is_in_pos = True
 
             if is_in_word and is_in_pos:
@@ -51,4 +52,3 @@ while play:
                 invalid = False
             else:
                 print('Invalid input must be yes or no.')
-            
