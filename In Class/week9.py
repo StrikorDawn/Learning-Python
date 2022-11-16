@@ -21,6 +21,7 @@ menu = [
     '3- Side',
 ]
 selections = []
+quantanties = []
 
 menu.append('4- Desert')
 menu.append('5- Order Complete')
@@ -72,4 +73,6 @@ while selection != 5:
             selections.append(user_desert)
 
 print()
-print(f'You selected: {selections}')
+print(f'You selected:')
+for i in range(len(selections)):
+    print(f'- {quantities[i]}')
