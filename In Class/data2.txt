@@ -1,0 +1,5 @@
+food, qty
+hamburgers, 3
+fries, 1
+rice, 4
+chicken, 5

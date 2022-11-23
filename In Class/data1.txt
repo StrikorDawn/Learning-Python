@@ -1,1 +1,1 @@
-hamburgers fries rice chicken
+hamburgers, fries, rice , fried chicken
