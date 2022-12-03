@@ -1,0 +1,9 @@
+Title, Genera, Votes
+Batman, Comic, 5
+Iron Man, Action, 8
+Avengers, Action, 3
+Avatar, Anime, 9
+Batman, Comic, 5
+Batman, Comic, 9
+Iron Man, Action, 5
+Avengers, Action, 2
